@@ -1,4 +1,4 @@
-# Exercise-04c-Enemies
+# Project 04—2D Platformer
 
 ## Implementation
 Assignment turned in on time
