@@ -1,6 +1,20 @@
 # Exercise-04c-Enemies
 
 ## Implementation
+Assignment turned in on time
+1. Repository contains a descriptive README.md
+2. No (script) syntax errors
+3.  No other runtime errors
+4.  Includes a user-controlled player
+5.  The player can jump
+6.  Includes at least one enemy
+7. Includes more than one enemy
+8.The camera follows the player
+9. 2 levels
+10. good looking background
+11. Large levels
+
+
 
 ## References
 
